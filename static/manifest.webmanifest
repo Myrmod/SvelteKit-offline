@@ -7,8 +7,8 @@
    "background_color": "#fff",
    "icons": [
       {
-         "src": "/svelte.svg",
-         "type": "image/svg",
+         "src": "/logo.png",
+         "type": "image/png",
          "sizes": "512x512",
          "purpose": "maskable"
       }
